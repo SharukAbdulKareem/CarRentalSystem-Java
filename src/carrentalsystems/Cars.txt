@@ -1,0 +1,4 @@
+CVS878W;Aston Martin;x7;Available;80
+CCEE3;audi;Q7;Available;90
+SSWE234;HONDA;lambo;AVAILABLE;85
+JUH8787;BUGGATI;VEYRON;available;200
